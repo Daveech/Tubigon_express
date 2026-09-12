@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Tubigon Express",
+    "slug": "tubigon-express",
+    "version": "1.0.0",
+    "scheme": "tubigonexpress",
+    "orientation": "portrait",
+    "ios": {"supportsTablet": true},
+    "android": {"adaptiveIcon": {"backgroundColor": "#ffffff"}},
+    "plugins": ["expo-router"]
+  }
+}
